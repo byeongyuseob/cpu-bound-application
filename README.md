@@ -1,2 +1,2 @@
 # cpu-bound-application
-yello
+yellow
